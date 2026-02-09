@@ -1,7 +1,7 @@
 import { docsMap } from "./docs";
 
 function App() {
-  const CurrentDoc = docsMap.doc1;
+  const CurrentDoc = docsMap.doc3;
   return <CurrentDoc />;
 }
 
